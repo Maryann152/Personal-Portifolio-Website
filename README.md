@@ -1,4 +1,4 @@
-# Personal-Portifolio-Websit
+# Personal-Portifolio-Website
 PROJECT OVERVIEW:This is a simple personal portifolio website built using HTML, CSS and JavaScript. The website includes a landing page, an about page and two recipes showcasing my favorite meals.
 HOW TO NAVIGATE THE WEBSITE:Landing Page;Opens when you visit index.html, Provides a welcome message, a professional graphic and link other pages. 
 About Page; Introduces me with a profile picture, bio, skills and fun facts. accessible from the navigation menu.
