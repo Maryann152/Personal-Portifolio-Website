@@ -7,5 +7,5 @@ Technologies used;HTML- structure of the website, CSS- styling and responsivenes
 HOW TO RUN THE PROJECT; Download the zipped folder and extract it, open index.html in a web browser.
 AUTHOR; WACHIRA MARYANN WANJIRA
 Email; wachiramaryann152@gmail.com
-Github;https://github.com/Maryann152.
+Github;https://maryann152.github.io/Personal-Portifolio-Website/
 License; This project is for educational purposes and is free to use.
