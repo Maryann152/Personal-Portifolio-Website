@@ -1,0 +1,6 @@
+body{font-family: Arial, sans-serif;line-height: 1.6;background-color: #f4f4f4;margin: 0;padding: 0;text-align: center;}
+header{background: #333;color: #fff;padding: 15px;}
+nav ul li a{color: white;text-decoration: none;}
+.about{background: white;padding: 20px;margin: 20px auto;width: 80%;border-radius: 10px;box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);}
+.profile-pic{width: 150px;height: 150px;border-radius: 50%;object fit:cover;display:block;margin: 20px auto;}
+footer{background: #333;color: white;padding: 10px;margin-top: 20px;}
