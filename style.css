@@ -2,7 +2,7 @@
 	body{font-family: Arial, sans-serif;background-color :#f8f9fa;text-align: center;}
 	header{background-color: #333;color: white;padding: 20px;}
 	header h1{font-size: 24px;font-weight: bold;}
-	nav ul{list-style: none;padding: 0;}
+	nav ul{list-style: none;padding: 0px;}
 	nav ul li{display: inline;margin: 0 15px;}
 	nav a{color: white;text-decoration: none;font-weight: bold;}
 	.hero{background-color: #eee;padding: 50px 20px;}
